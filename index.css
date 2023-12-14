@@ -1,0 +1,134 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Calibri;
+    font-weight: 500;
+}
+
+#hero {
+    margin: 0 auto;
+    height: 100vh;
+    background-color: #863ae8;
+    position: relative;
+}
+
+.insidehero {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 75%;
+    text-align: center;
+}
+
+.title {
+    margin-top: 16px;
+    margin-bottom: 16px;
+    margin-left: 0;
+    margin-right: 0;
+    font-family: Bitter, serif;
+    color: white;
+    font-size: 48px;
+    font-weight: 400;
+}
+.slimline{
+    width: 50%;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    color: white;
+    font-family: calibri;
+    margin-left:auto;
+    margin-right: auto;
+}
+.belowhero{
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
+.pclass{
+    text-align: center;
+    letter-spacing: 1.5px;
+    font-size: 14px;
+    font-family: Bitter;
+    font-weight: 600;
+}
+.orange{
+    color: #e95400;
+}
+.typography{
+    letter-spacing: -0.5px;
+    font-size: 50px;
+    font-family: Bitter;
+    font-weight: 600;
+
+}
+.headlines{
+    font-weight: 600;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: Calibri;
+}
+.quote{
+    border-left: 2px solid #e95400;
+    padding-left: 16px;
+    margin-right: 0;
+    margin-top:32px;
+    margin-left: 32px;
+    margin-bottom: 32px;
+    font-style: italic;
+    
+}
+.bold{
+    font-weight: 600;
+    margin-left: 16px;
+}
+.newsection{
+    font-size: 38px;
+    font-family: Bitter;
+    font-weight: 500;
+}
+.hightlight{
+    color: #e95400;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.heading4{
+    font-size: 30px;
+    letter-spacing: 0.25px;
+    font-family: Bitter;
+    font-weight: 500;
+}
+.heading5{
+    font-size: 24px;
+    letter-spacing: 0.25px;
+}
+.heading6{
+    font-size: 16px;
+    letter-spacing: 0.25px;
+}
+.headingtag{
+    font-family: Bitter, Serif;
+}
+.footer{
+    background-color:#863ae8;
+    text-align: center;
+    padding-top: 28px;
+    padding-bottom: 28px;
+    color: white;
+}
+.ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.footeritem{
+    display: inline;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
